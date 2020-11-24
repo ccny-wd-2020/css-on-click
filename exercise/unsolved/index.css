@@ -1,0 +1,9 @@
+/*
+  The animations that im using are:
+  - transition with a value of transform
+  - transition timing function with a value of linear
+  - transition duration
+  - animation with rotation of the image
+  - keyframes that continuously expanded the height and width of the images
+    and uses transform for the rotation
+*/
